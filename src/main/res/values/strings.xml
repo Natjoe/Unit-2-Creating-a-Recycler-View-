@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <item name="recyclerview" type="id" />
+    <item name="fab" type="id" />
+</resources>
